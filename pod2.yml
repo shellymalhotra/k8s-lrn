@@ -10,5 +10,3 @@ spec:
     - containerPort: 8080
   - name: watcher-shelly
     image: afakharany/watcher
-    
-   
